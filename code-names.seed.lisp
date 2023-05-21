@@ -8,7 +8,7 @@
   "Collects lines from FILE. Skips lines that start with ';' or '#'."
   (with-open-file (in (word-list file))
     (loop :for line = (read-line in nil nil)
-          :while line
+          :until (null line)
           :unless (or (zerop (length line))
                       (every (lambda (x)
                                (member x '(#\tab #\space)))
