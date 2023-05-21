@@ -61,6 +61,10 @@
      (search-word-list-vpath
       (merge-pathnames name (make-pathname :type suffix))))))
 
+(defun Pattern (&rest symbols)
+  (mapcar (lambda (x) (load-word-list (word-list x)))
+          symbols))
+
 ;;; Formatting
 
 (defvar *Code-name-formatter* 'default-format-code-name)
