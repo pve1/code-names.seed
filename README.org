@@ -1,0 +1,8 @@
+* Code name generator
+
+: (code-names.seed:generate-basic)
+: => "Uncertain Excitement"
+
+: (code-names.seed:generate-same-first-letter)
+: => "Ponderous Pearl"
+
