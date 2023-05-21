@@ -1,0 +1,1238 @@
+Achernar
+Acrux
+Albireo
+Alcor
+Alcyone
+Aldebaran
+Algol
+Alnilam
+Alnitak
+Alpha Andromedae
+Alpha Antliae
+Alpha Apodis
+Alpha Aquarii
+Alpha Arae
+Alpha Arietis
+Alpha Caeli
+Alpha Camelopardalis
+Alpha Cancri
+Alpha Cassiopeiae
+Alpha Centauri
+Alpha Cephei
+Alpha Ceti
+Alpha Chamaeleontis
+Alpha Circini
+Alpha Columbae
+Alpha Comae Berenices
+Alpha Coronae Australis
+Alpha Corvi
+Alpha Crateris
+Alpha Doradus
+Alpha Equulei
+Alpha Fornacis
+Alpha Gruis
+Alpha Herculis
+Alpha Horologii
+Alpha Hydri
+Alpha Indi
+Alpha Lacertae
+Alpha Leporis
+Alpha Lupi
+Alpha Lyncis
+Alpha Microscopii
+Alpha Monocerotis
+Alpha Muscae
+Alpha Octantis
+Alpha Ophiuchi
+Alpha Pavonis
+Alpha Pegasi
+Alpha Persei
+Alpha Phoenicis
+Alpha Pictoris
+Alpha Piscium
+Alpha Pyxidis
+Alpha Reticuli
+Alpha Sagittae
+Alpha Sagittarii
+Alpha Sculptoris
+Alpha Scuti
+Alpha Serpentis
+Alpha Sextantis
+Alpha Telescopii
+Alpha Trianguli
+Alpha Trianguli Australis
+Alpha Tucanae
+Alpha Ursae Majoris
+Alpha Volantis
+Alpha Vulpeculae
+Alphard
+Alphecca
+Altair
+Antares
+Arcturus
+Bellatrix
+Beta Andromedae
+Beta Apodis
+Beta Aquarii
+Beta Aquilae
+Beta Arae
+Beta Arietis
+Beta Aurigae
+Beta Boötis
+Beta Caeli
+Beta Camelopardalis
+Beta Cancri
+Beta Canis Majoris
+Beta Canis Minoris
+Beta Canum Venaticorum
+Beta Capricorni
+Beta Carinae
+Beta Cassiopeiae
+Beta Centauri
+Beta Cephei
+Beta Ceti
+Beta Chamaeleontis
+Beta Circini
+Beta Columbae
+Beta Comae Berenices
+Beta Coronae Australis
+Beta Coronae Borealis
+Beta Corvi
+Beta Crateris
+Beta Delphini
+Beta Doradus
+Beta Draconis
+Beta Equulei
+Beta Eridani
+Beta Fornacis
+Beta Gruis
+Beta Herculis
+Beta Horologii
+Beta Hydrae
+Beta Hydri
+Beta Indi
+Beta Lacertae
+Beta Leonis Minoris
+Beta Leporis
+Beta Librae
+Beta Lupi
+Beta Lyrae
+Beta Mensae
+Beta Microscopii
+Beta Monocerotis
+Beta Muscae
+Beta Octantis
+Beta Ophiuchi
+Beta Pavonis
+Beta Pegasi
+Beta Phoenicis
+Beta Pictoris
+Beta Piscis Austrini
+Beta Piscium
+Beta Pyxidis
+Beta Reticuli
+Beta Sagittae
+Beta Scorpii
+Beta Sculptoris
+Beta Scuti
+Beta Serpentis
+Beta Sextantis
+Beta Tauri
+Beta Tauri
+Beta Trianguli
+Beta Trianguli Australis
+Beta Tucanae
+Beta Ursae Majoris
+Beta Ursae Minoris
+Beta Virginis
+Beta Volantis
+Betelgeuse
+Bharani
+Canopus
+Capella
+Castor
+Chamukuy
+Chi Andromedae
+Chi Aquarii
+Chi Aquilae
+Chi Aurigae
+Chi Boötis
+Chi Cancri
+Chi Capricorni
+Chi Carinae
+Chi Cassiopeiae
+Chi Centauri
+Chi Ceti
+Chi Cygni
+Chi Draconis
+Chi Eridani
+Chi Geminorum
+Chi Herculis
+Chi Lupi
+Chi Octantis
+Chi Ophiuchi
+Chi Pegasi
+Chi Phoenicis
+Chi Puppis
+Chi Sagittarii
+Chi Scorpii
+Chi Serpentis
+Chi Tauri
+Chi Ursae Majoris
+Chi Virginis
+Cor Caroli
+Delta Andromedae
+Delta Antliae
+Delta Apodis
+Delta Aquarii
+Delta Aquilae
+Delta Arae
+Delta Arietis
+Delta Aurigae
+Delta Boötis
+Delta Caeli
+Delta Cancri
+Delta Canis Majoris
+Delta Capricorni
+Delta Cassiopeiae
+Delta Centauri
+Delta Cephei
+Delta Ceti
+Delta Circini
+Delta Columbae
+Delta Coronae Australis
+Delta Coronae Borealis
+Delta Corvi
+Delta Crateris
+Delta Crucis
+Delta Delphini
+Delta Doradus
+Delta Draconis
+Delta Equulei
+Delta Eridani
+Delta Fornacis
+Delta Geminorum
+Delta Herculis
+Delta Horologii
+Delta Hydrae
+Delta Hydri
+Delta Indi
+Delta Leonis
+Delta Leporis
+Delta Librae
+Delta Lupi
+Delta Mensae
+Delta Microscopii
+Delta Monocerotis
+Delta Muscae
+Delta Normae
+Delta Octantis
+Delta Ophiuchi
+Delta Pavonis
+Delta Persei
+Delta Phoenicis
+Delta Pictoris
+Delta Piscis Austrini
+Delta Piscium
+Delta Pyxidis
+Delta Reticuli
+Delta Sagittae
+Delta Sagittarii
+Delta Scorpii
+Delta Sculptoris
+Delta Scuti
+Delta Serpentis
+Delta Sextantis
+Delta Telescopii
+Delta Trianguli
+Delta Trianguli Australis
+Delta Tucanae
+Delta Ursae Majoris
+Delta Ursae Minoris
+Delta Velorum
+Delta Virginis
+Delta Volantis
+Deneb
+Denebola
+Epsilon Andromedae
+Epsilon Antliae
+Epsilon Apodis
+Epsilon Aquarii
+Epsilon Aquilae
+Epsilon Arietis
+Epsilon Aurigae
+Epsilon Boötis
+Epsilon Cancri
+Epsilon Canis Majoris
+Epsilon Canis Minoris
+Epsilon Capricorni
+Epsilon Carinae
+Epsilon Cassiopeiae
+Epsilon Centauri
+Epsilon Cephei
+Epsilon Ceti
+Epsilon Chamaeleontis
+Epsilon Circini
+Epsilon Columbae
+Epsilon Coronae Australis
+Epsilon Coronae Borealis
+Epsilon Corvi
+Epsilon Crateris
+Epsilon Crucis
+Epsilon Cygni
+Epsilon Delphini
+Epsilon Doradus
+Epsilon Draconis
+Epsilon Equulei
+Epsilon Eridani
+Epsilon Fornacis
+Epsilon Geminorum
+Epsilon Gruis
+Epsilon Herculis
+Epsilon Hydrae
+Epsilon Hydri
+Epsilon Indi A
+Epsilon Leonis
+Epsilon Leporis
+Epsilon Librae
+Epsilon Lupi
+Epsilon Lyrae
+Epsilon Mensae
+Epsilon Microscopii
+Epsilon Monocerotis
+Epsilon Muscae
+Epsilon Normae
+Epsilon Octantis
+Epsilon Ophiuchi
+Epsilon Pavonis
+Epsilon Pegasi
+Epsilon Persei
+Epsilon Phoenicis
+Epsilon Piscis Austrini
+Epsilon Piscium
+Epsilon Pyxidis
+Epsilon Reticuli
+Epsilon Sagittae
+Epsilon Sagittarii
+Epsilon Scorpii
+Epsilon Sculptoris
+Epsilon Scuti
+Epsilon Serpentis
+Epsilon Sextantis
+Epsilon Tauri
+Epsilon Telescopii
+Epsilon Trianguli
+Epsilon Trianguli Australis
+Epsilon Tucanae
+Epsilon Ursae Majoris
+Epsilon Ursae Minoris
+Epsilon Virginis
+Epsilon Volantis
+Eta Andromedae
+Eta Antliae
+Eta Apodis
+Eta Aquilae
+Eta Arae
+Eta Arietis
+Eta Aurigae
+Eta Boötis
+Eta Cancri
+Eta Canis Majoris
+Eta Canis Minoris
+Eta Capricorni
+Eta Carinae
+Eta Cassiopeiae
+Eta Centauri
+Eta Cephei
+Eta Ceti
+Eta Chamaeleontis
+Eta Circini
+Eta Columbae
+Eta Coronae Borealis
+Eta Corvi
+Eta Crateris
+Eta Crucis
+Eta Cygni
+Eta Delphini
+Eta Doradus
+Eta Draconis
+Eta Eridani
+Eta Geminorum
+Eta Gruis
+Eta Herculis
+Eta Horologii
+Eta Hydrae
+Eta Indi
+Eta Leonis
+Eta Leporis
+Eta Librae
+Eta Lupi
+Eta Lyrae
+Eta Mensae
+Eta Microscopii
+Eta Muscae
+Eta Normae
+Eta Octantis
+Eta Ophiuchi
+Eta Orionis
+Eta Pavonis
+Eta Pegasi
+Eta Persei
+Eta Phoenicis
+Eta Piscis Austrini
+Eta Piscium
+Eta Pyxidis
+Eta Reticuli
+Eta Sagittae
+Eta Sagittarii
+Eta Sagittarii
+Eta Scorpii
+Eta Sculptoris
+Eta Scuti
+Eta Serpentis
+Eta Telescopii
+Eta Trianguli Australis
+Eta Tucanae
+Eta Ursae Majoris
+Eta Ursae Minoris
+Eta Virginis
+Eta Volantis
+Gacrux
+Gamma Andromedae
+Gamma Apodis
+Gamma Aquarii
+Gamma Aquilae
+Gamma Arae
+Gamma Arietis
+Gamma Boötis
+Gamma Camelopardalis
+Gamma Cancri
+Gamma Canis Majoris
+Gamma Canis Minoris
+Gamma Capricorni
+Gamma Centauri
+Gamma Cephei
+Gamma Ceti
+Gamma Chamaeleontis
+Gamma Circini
+Gamma Columbae
+Gamma Comae Berenices
+Gamma Coronae Australis
+Gamma Coronae Borealis
+Gamma Corvi
+Gamma Crateris
+Gamma Cygni
+Gamma Delphini
+Gamma Doradus
+Gamma Draconis
+Gamma Equulei
+Gamma Eridani
+Gamma Geminorum
+Gamma Gruis
+Gamma Herculis
+Gamma Horologii
+Gamma Hydrae
+Gamma Hydri
+Gamma Indi
+Gamma Leporis
+Gamma Librae
+Gamma Lupi
+Gamma Lyrae
+Gamma Mensae
+Gamma Microscopii
+Gamma Monocerotis
+Gamma Muscae
+Gamma Ophiuchi
+Gamma Pavonis
+Gamma Pegasi
+Gamma Persei
+Gamma Phoenicis
+Gamma Pictoris
+Gamma Piscis Austrini
+Gamma Piscium
+Gamma Pyxidis
+Gamma Reticuli
+Gamma Sagittae
+Gamma Sagittarii
+Gamma Sculptoris
+Gamma Scuti
+Gamma Serpentis
+Gamma Sextantis
+Gamma Tauri
+Gamma Trianguli
+Gamma Trianguli Australis
+Gamma Tucanae
+Gamma Ursae Majoris
+Gamma Ursae Minoris
+Gamma Velorum
+Gamma Virginis
+Gamma Volantis
+Iota Andromedae
+Iota Antliae
+Iota Apodis
+Iota Aquarii
+Iota Aquilae
+Iota Arae
+Iota Arietis
+Iota Aurigae
+Iota Boötis
+Iota Cancri
+Iota Canis Majoris
+Iota Capricorni
+Iota Carinae
+Iota Cassiopeiae
+Iota Centauri
+Iota Cephei
+Iota Ceti
+Iota Chamaeleontis
+Iota Coronae Borealis
+Iota Crateris
+Iota Crucis
+Iota Delphini
+Iota Draconis
+Iota Eridani
+Iota Geminorum
+Iota Gruis
+Iota Herculis
+Iota Horologii
+Iota Hydrae
+Iota Hydri
+Iota Indi
+Iota Leonis
+Iota Leporis
+Iota Lupi
+Iota Lyrae
+Iota Mensae
+Iota Microscopii
+Iota Octantis
+Iota Ophiuchi
+Iota Orionis
+Iota Pavonis
+Iota Pegasi
+Iota Persei
+Iota Phoenicis
+Iota Pictoris
+Iota Piscis Austrini
+Iota Piscium
+Iota Reticuli
+Iota Sagittarii
+Iota Sculptoris
+Iota Serpentis
+Iota Tauri
+Iota Telescopii
+Iota Trianguli
+Iota Trianguli Australis
+Iota Tucanae
+Iota Ursae Majoris
+Iota Virginis
+Iota Volantis
+Kappa Andromedae
+Kappa Aquarii
+Kappa Aquilae
+Kappa Arae
+Kappa Arietis
+Kappa Aurigae
+Kappa Boötis
+Kappa Cancri
+Kappa Canis Majoris
+Kappa Capricorni
+Kappa Cassiopeiae
+Kappa Centauri
+Kappa Cephei
+Kappa Chamaeleontis
+Kappa Columbae
+Kappa Coronae Borealis
+Kappa Crateris
+Kappa Crucis
+Kappa Cygni
+Kappa Delphini
+Kappa Draconis
+Kappa Eridani
+Kappa Fornacis
+Kappa Geminorum
+Kappa Gruis
+Kappa Herculis
+Kappa Hydrae
+Kappa Hydri
+Kappa Leonis
+Kappa Leporis
+Kappa Librae
+Kappa Lyrae
+Kappa Mensae
+Kappa Normae
+Kappa Octantis
+Kappa Ophiuchi
+Kappa Pavonis
+Kappa Pegasi
+Kappa Persei
+Kappa Phoenicis
+Kappa Pictoris
+Kappa Piscium
+Kappa Pyxidis
+Kappa Reticuli
+Kappa Sagittarii
+Kappa Scorpii
+Kappa Serpentis
+Kappa Tauri
+Kappa Telescopii
+Kappa Trianguli Australis
+Kappa Tucanae
+Kappa Ursae Majoris
+Kappa Velorum
+Kappa Virginis
+Kappa Volantis
+Lambda Andromedae
+Lambda Aquarii
+Lambda Aquilae
+Lambda Arae
+Lambda Arietis
+Lambda Aurigae
+Lambda Boötis
+Lambda Caeli
+Lambda Cancri
+Lambda Canis Majoris
+Lambda Capricorni
+Lambda Cassiopeiae
+Lambda Centauri
+Lambda Cephei
+Lambda Ceti
+Lambda Chamaeleontis
+Lambda Columbae
+Lambda Coronae Australis
+Lambda Coronae Borealis
+Lambda Crateris
+Lambda Crucis
+Lambda Cygni
+Lambda Doradus
+Lambda Draconis
+Lambda Equulei
+Lambda Eridani
+Lambda Geminorum
+Lambda Gruis
+Lambda Herculis
+Lambda Horologii
+Lambda Hydrae
+Lambda Hydri
+Lambda Leonis
+Lambda Leporis
+Lambda Librae
+Lambda Lupi
+Lambda Lyrae
+Lambda Mensae
+Lambda Muscae
+Lambda Normae
+Lambda Octantis
+Lambda Ophiuchi
+Lambda Pavonis
+Lambda Pegasi
+Lambda Persei
+Lambda Pictoris
+Lambda Piscis Austrini
+Lambda Piscium
+Lambda Pyxidis
+Lambda Sagittarii
+Lambda Scorpii
+Lambda Serpentis
+Lambda Tauri
+Lambda Telescopii
+Lambda Tucanae
+Lambda Ursae Majoris
+Lambda Ursae Minoris
+Lambda Velorum
+Lambda Virginis
+Meissa
+Mimosa
+Mintaka
+Mira
+Mu Andromedae
+Mu Aquarii
+Mu Aquilae
+Mu Arae
+Mu Arietis
+Mu Aurigae
+Mu Boötis
+Mu Canis Majoris
+Mu Capricorni
+Mu Cassiopeiae
+Mu Centauri
+Mu Cephei
+Mu Ceti
+Mu Columbae
+Mu Coronae Australis
+Mu Coronae Borealis
+Mu Crucis
+Mu Cygni
+Mu Draconis
+Mu Eridani
+Mu Fornacis
+Mu Geminorum
+Mu Herculis
+Mu Horologii
+Mu Hydrae
+Mu Hydri
+Mu Indi
+Mu Leonis
+Mu Leporis
+Mu Librae
+Mu Lupi
+Mu Lyrae
+Mu Mensae
+Mu Muscae
+Mu Normae
+Mu Ophiuchi
+Mu Orionis
+Mu Pegasi
+Mu Persei
+Mu Phoenicis
+Mu Pictoris
+Mu Piscis Austrini
+Mu Piscium
+Mu Sagittarii
+Mu Scorpii
+Mu Sculptoris
+Mu Serpentis
+Mu Tauri
+Mu Telescopii
+Mu Ursae Majoris
+Mu Velorum
+Mu Virginis
+Navi
+Nu Andromedae
+Nu Aquarii
+Nu Aquilae
+Nu Arietis
+Nu Aurigae
+Nu Caeli
+Nu Cancri
+Nu Capricorni
+Nu Cassiopeiae
+Nu Centauri
+Nu Cephei
+Nu Ceti
+Nu Chamaeleontis
+Nu Cygni
+Nu Doradus
+Nu Draconis
+Nu Eridani
+Nu Fornacis
+Nu Geminorum
+Nu Gruis
+Nu Herculis
+Nu Horologii
+Nu Hydrae
+Nu Hydri
+Nu Indi
+Nu Leonis
+Nu Leporis
+Nu Librae
+Nu Mensae
+Nu Microscopii
+Nu Octantis
+Nu Ophiuchi
+Nu Orionis
+Nu Pavonis
+Nu Pegasi
+Nu Persei
+Nu Phoenicis
+Nu Pictoris
+Nu Piscium
+Nu Puppis
+Nu Sagittarii
+Nu Scorpii
+Nu Serpentis
+Nu Tauri
+Nu Telescopii
+Nu Tucanae
+Nu Ursae Majoris
+Nu Virginis
+Omega Andromedae
+Omega Aurigae
+Omega Boötis
+Omega Canis Majoris
+Omega Capricorni
+Omega Carinae
+Omega Cassiopeiae
+Omega Centauri
+Omega Draconis
+Omega Eridani
+Omega Fornacis
+Omega Geminorum
+Omega Herculis
+Omega Hydrae
+Omega Leonis
+Omega Lupi
+Omega Octantis
+Omega Ophiuchi
+Omega Orionis
+Omega Pavonis
+Omega Persei
+Omega Phoenicis
+Omega Piscium
+Omega Sagittarii
+Omega Scorpii
+Omega Scorpii
+Omega Scorpii
+Omega Serpentis
+Omega Tauri
+Omega Ursae Majoris
+Omega Virginis
+Omicron Andromedae
+Omicron Aquarii
+Omicron Aquilae
+Omicron Arietis
+Omicron Aurigae
+Omicron Boötis
+Omicron Capricorni
+Omicron Cassiopeiae
+Omicron Cephei
+Omicron Columbae
+Omicron Coronae Borealis
+Omicron Draconis
+Omicron Geminorum
+Omicron Gruis
+Omicron Herculis
+Omicron Hydrae
+Omicron Indi
+Omicron Leonis
+Omicron Lupi
+Omicron Octantis
+Omicron Ophiuchi
+Omicron Pavonis
+Omicron Pegasi
+Omicron Persei
+Omicron Piscium
+Omicron Puppis
+Omicron Sagittarii
+Omicron Scorpii
+Omicron Serpentis
+Omicron Tauri
+Omicron Ursae Majoris
+Omicron Velorum
+Omicron Virginis
+Phi Andromedae
+Phi Aquarii
+Phi Aquilae
+Phi Aurigae
+Phi Boötis
+Phi Capricorni
+Phi Cassiopeiae
+Phi Centauri
+Phi Cygni
+Phi Draconis
+Phi Eridani
+Phi Fornacis
+Phi Geminorum
+Phi Gruis
+Phi Herculis
+Phi Leonis
+Phi Octantis
+Phi Ophiuchi
+Phi Orionis
+Phi Pegasi
+Phi Persei
+Phi Phoenicis
+Phi Piscium
+Phi Sagittarii
+Phi Serpentis
+Phi Tauri
+Phi Ursae Majoris
+Phi Velorum
+Phi Virginis
+Pi Andromedae
+Pi Aquarii
+Pi Aquilae
+Pi Arae
+Pi Arietis
+Pi Aurigae
+Pi Boötis
+Pi Canis Majoris A
+Pi Capricorni
+Pi Cassiopeiae
+Pi Centauri
+Pi Cephei
+Pi Ceti
+Pi Chamaeleontis
+Pi Coronae Borealis
+Pi Draconis
+Pi Eridani
+Pi Fornacis
+Pi Geminorum
+Pi Herculis
+Pi Hydrae
+Pi Indi
+Pi Leonis
+Pi Lupi
+Pi Mensae
+Pi Pavonis
+Pi Persei
+Pi Phoenicis
+Pi Piscis Austrini
+Pi Piscium
+Pi Puppis
+Pi Sagittarii
+Pi Scorpii
+Pi Sculptoris
+Pi Serpentis
+Pi Tauri
+Pi Ursae Majoris
+Pi Ursae Minoris
+Pi Virginis
+Polaris
+Pollux
+Procyon
+Psi Andromedae
+Psi Aquilae
+Psi Boötis
+Psi Capricorni
+Psi Cassiopeiae
+Psi Centauri
+Psi Crateris
+Psi Cygni
+Psi Draconis
+Psi Eridani
+Psi Fornacis
+Psi Hydrae
+Psi Leonis
+Psi Octantis
+Psi Ophiuchi
+Psi Pegasi
+Psi Persei
+Psi Phoenicis
+Psi Sagittarii
+Psi Scorpii
+Psi Serpentis
+Psi Tauri
+Psi Ursae Majoris
+Psi Velorum
+Psi Virginis
+Regulus
+Rho Andromedae
+Rho Aquarii
+Rho Aquilae
+Rho Aurigae
+Rho Boötis
+Rho Capricorni
+Rho Cassiopeiae
+Rho Centauri
+Rho Ceti
+Rho Coronae Borealis
+Rho Cygni
+Rho Draconis
+Rho Fornacis
+Rho Geminorum
+Rho Gruis
+Rho Herculis
+Rho Hydrae
+Rho Indi
+Rho Leonis
+Rho Lupi
+Rho Octantis
+Rho Ophiuchi
+Rho Orionis
+Rho Pavonis
+Rho Pegasi
+Rho Persei
+Rho Phoenicis
+Rho Piscium
+Rho Puppis
+Rho Sagitarii
+Rho Sagittarii
+Rho Sagittarii
+Rho Scorpii
+Rho Serpentis
+Rho Tauri
+Rho Telescopii
+Rho Tucanae
+Rho Ursae Majoris
+Rho Virginis
+Rigel
+Saiph
+Salvador cordero
+Sigma Andromedae
+Sigma Aquarii
+Sigma Aquilae
+Sigma Arae
+Sigma Arietis
+Sigma Aurigae
+Sigma Boötis
+Sigma Canis Majoris
+Sigma Capricorni
+Sigma Cassiopeiae
+Sigma Centauri
+Sigma Ceti
+Sigma Columbae
+Sigma Coronae Borealis
+Sigma Cygni
+Sigma Draconis
+Sigma Fornacis
+Sigma Geminorum
+Sigma Herculis
+Sigma Hydrae
+Sigma Hydri
+Sigma Leonis
+Sigma Librae
+Sigma Lupi
+Sigma Octantis
+Sigma Ophiuchi
+Sigma Orionis
+Sigma Pavonis
+Sigma Pegasi
+Sigma Persei
+Sigma Phoenicis
+Sigma Piscium
+Sigma Puppis
+Sigma Sagittarii
+Sigma Scorpii
+Sigma Sculptoris
+Sigma Serpentis
+Sigma Tauri
+Sigma Tauri
+Sigma Ursae Majoris
+Sigma Ursae Majoris
+Sigma Virginis
+Sirius
+Spica
+Sualocin
+Tau Andromedae
+Tau Aquilae
+Tau Arietis
+Tau Aurigae
+Tau Boötis
+Tau Cancri
+Tau Canis Majoris
+Tau Cassiopeiae
+Tau Centauri
+Tau Ceti
+Tau Coronae Borealis
+Tau Cygni
+Tau Draconis
+Tau Eridani
+Tau Fornacis
+Tau Geminorum
+Tau Herculis
+Tau Hydrae
+Tau Leonis
+Tau Librae
+Tau Octantis
+Tau Ophiuchi
+Tau Orionis
+Tau Pavonis
+Tau Pegasi
+Tau Persei
+Tau Phoenicis
+Tau Piscis Austrini
+Tau Piscium
+Tau Puppis
+Tau Sagittarii
+Tau Scorpii
+Tau Sculptoris
+Tau Tauri
+Tau Ursae Majoris
+Tau Virginis
+Taygeta
+Theta Andromedae
+Theta Antliae
+Theta Apodis
+Theta Aquarii
+Theta Aquilae
+Theta Arae
+Theta Arietis
+Theta Aurigae
+Theta Boötis
+Theta Cancri
+Theta Canis Majoris
+Theta Capricorni
+Theta Carinae
+Theta Cassiopeiae
+Theta Centauri
+Theta Cephei
+Theta Ceti
+Theta Chamaeleontis
+Theta Circini
+Theta Columbae
+Theta Coronae Australis
+Theta Coronae Borealis
+Theta Crateris
+Theta Cygni
+Theta Delphini
+Theta Doradus
+Theta Draconis
+Theta Eridani
+Theta Geminorum
+Theta Gruis
+Theta Herculis
+Theta Hydrae
+Theta Hydri
+Theta Indi
+Theta Leonis
+Theta Leporis
+Theta Librae
+Theta Lupi
+Theta Lyrae
+Theta Mensae
+Theta Muscae
+Theta Normae
+Theta Octantis
+Theta Ophiuchi
+Theta Pavonis
+Theta Pegasi
+Theta Persei
+Theta Phoenicis
+Theta Pictoris
+Theta Piscis Austrini
+Theta Piscium
+Theta Pyxidis
+Theta Reticuli
+Theta Sagittae
+Theta Sagittarii
+Theta Sculptoris
+Theta Serpentis
+Theta Trianguli Australis
+Theta Tucanae
+Theta Ursae Majoris
+Theta Ursae Minoris
+Theta Virginis
+Theta Volantis
+Thuban
+Upsilon Andromedae
+Upsilon Aquarii
+Upsilon Aquilae
+Upsilon Aurigae
+Upsilon Boötis
+Upsilon Capricorni
+Upsilon Carinae
+Upsilon Ceti
+Upsilon Coronae Borealis
+Upsilon Cygni
+Upsilon Draconis
+Upsilon Fornacis
+Upsilon Geminorum
+Upsilon Gruis
+Upsilon Herculis
+Upsilon Leonis
+Upsilon Librae
+Upsilon Lupi
+Upsilon Octantis
+Upsilon Ophiuchi
+Upsilon Orionis
+Upsilon Pavonis
+Upsilon Pegasi
+Upsilon Phoenicis
+Upsilon Piscis Austrini
+Upsilon Piscium
+Upsilon Sagittarii
+Upsilon Scorpii
+Upsilon Serpentis
+Upsilon Tauri
+Upsilon Ursae Majoris
+Upsilon Virginis
+Vega
+Xi Andromedae
+Xi Aquarii
+Xi Aquilae
+Xi Arietis
+Xi Arietis
+Xi Aurigae
+Xi Boötis
+Xi Cancri
+Xi Cassiopeiae
+Xi Cephei
+Xi Columbae
+Xi Coronae Borealis
+Xi Cygni
+Xi Draconis
+Xi Eridani
+Xi Geminorum
+Xi Gruis
+Xi Herculis
+Xi Hydrae
+Xi Leonis
+Xi Mensae
+Xi Octantis
+Xi Ophiuchi
+Xi Orionis
+Xi Pavonis
+Xi Pegasi
+Xi Persei
+Xi Phoenicis
+Xi Piscium
+Xi Puppis
+Xi Sagittarii
+Xi Scorpii
+Xi Sculptoris
+Xi Serpentis
+Xi Tauri
+Xi Telescopii
+Xi Ursae Majoris
+Xi Virginis
+Zeta Andromedae
+Zeta Apodis
+Zeta Aquarii
+Zeta Aquilae
+Zeta Arae
+Zeta Arietis
+Zeta Aurigae
+Zeta Boötis
+Zeta Caeli
+Zeta Cancri
+Zeta Canis Majoris
+Zeta Canis Minoris
+Zeta Capricorni
+Zeta Cassiopeiae
+Zeta Centauri
+Zeta Cephei
+Zeta Ceti
+Zeta Chamaeleontis
+Zeta Circini
+Zeta Coronae Australis
+Zeta Coronae Borealis
+Zeta Corvi
+Zeta Crateris
+Zeta Crucis
+Zeta Cygni
+Zeta Delphini
+Zeta Doradus
+Zeta Draconis
+Zeta Equulei
+Zeta Eridani
+Zeta Fornacis
+Zeta Geminorum
+Zeta Gruis
+Zeta Herculis
+Zeta Horologii
+Zeta Hydrae
+Zeta Hydri
+Zeta Indi
+Zeta Leonis
+Zeta Leporis
+Zeta Librae
+Zeta Lupi
+Zeta Mensae
+Zeta Microscopii
+Zeta Monocerotis
+Zeta Normae
+Zeta Octantis
+Zeta Ophiuchi
+Zeta Pavonis
+Zeta Pegasi
+Zeta Persei
+Zeta Phoenicis
+Zeta Pictoris
+Zeta Piscis Austrini
+Zeta Piscium
+Zeta Puppis
+Zeta Pyxidis
+Zeta Reticuli
+Zeta Sagittae
+Zeta Sagittarii
+Zeta Sculptoris
+Zeta Scuti
+Zeta Serpentis
+Zeta Tauri
+Zeta Telescopii
+Zeta Trianguli Australis
+Zeta Tucanae
+Zeta Ursae Majoris
+Zeta Ursae Minoris
+Zeta Virginis
+Zeta Volantis
