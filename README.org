@@ -9,5 +9,8 @@
 : (code-names.seed:generate-same-first-letter 
 :  (code-names.seed:pattern 'adjective 'adjective 'noun))
 : => "Old Ominous Onion"
-
+: 
+: (code-names.seed:generate-same-first-letter
+:  (code-names.seed:pattern 'adjective 'adjective '("Alice"))
+: => "Adorable Angelic Alice"
 
