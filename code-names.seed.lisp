@@ -108,20 +108,21 @@
                               (mapcar take-first-letter word-list))
         :finally (return (remove-duplicates intersection))))
 
-(defun Generate-same-first-letter (&optional (words (default-word-pattern))
-                                             (tries 10))
+(defun Generate-same-first-letter (&optional (words (default-word-pattern)))
+  ;; WORDS is a list of word (string) lists.
   (assert (consp words))
-  (when (zerop tries)
-    (error "Maximum tries exceeded."))
   (format-code-name
+   ;; For each word list:
    (loop :for word-list :in words
-         ;; Pick a letter from the first word list.
+         ;; Pick a random suitable first letter.
          :for letter = (let ((letters (first-letter-intersection words)))
                          (unless letters (error "No shared first letters."))
                          (alexandria:random-elt letters))
            :then letter
+         ;; Narrow down words to those starting with LETTER.
          :for filtered-wordlist = (remove-if-not (lambda (x)
                                                    (eql (char-downcase (aref x 0))
                                                         letter))
                                                  word-list)
+         ;; Pick a random word.
          :collect (alexandria:random-elt filtered-wordlist))))
