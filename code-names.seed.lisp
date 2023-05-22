@@ -62,7 +62,10 @@
       (merge-pathnames name (make-pathname :type suffix))))))
 
 (defun Pattern (&rest symbols)
-  (mapcar (lambda (x) (load-word-list (word-list x)))
+  (mapcar (lambda (x)
+            (typecase x
+              (list x)
+              (t (load-word-list x))))
           symbols))
 
 ;;; Formatting
@@ -96,6 +99,15 @@
          :do (assert (consp word-list))
          :collect (alexandria:random-elt word-list))))
 
+;; What are the possible first letters?
+(defun first-letter-intersection (words) ;; List of string lists
+  (loop :with take-first-letter = (lambda (x) (char-downcase (aref x 0)))
+        :for word-list :in words
+        :for intersection = (mapcar take-first-letter word-list)
+          :then (intersection intersection
+                              (mapcar take-first-letter word-list))
+        :finally (return (remove-duplicates intersection))))
+
 (defun Generate-same-first-letter (&optional (words (default-word-pattern))
                                              (tries 10))
   (assert (consp words))
@@ -104,13 +116,12 @@
   (format-code-name
    (loop :for word-list :in words
          ;; Pick a letter from the first word list.
-         :for letter = (char-downcase (aref (alexandria:random-elt word-list) 0))
+         :for letter = (let ((letters (first-letter-intersection words)))
+                         (unless letters (error "No shared first letters."))
+                         (alexandria:random-elt letters))
            :then letter
          :for filtered-wordlist = (remove-if-not (lambda (x)
                                                    (eql (char-downcase (aref x 0))
                                                         letter))
                                                  word-list)
-         :when (null filtered-wordlist)
-           :do (return-from generate-same-first-letter
-                 (generate-same-first-letter words (1- tries)))
          :collect (alexandria:random-elt filtered-wordlist))))
