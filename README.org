@@ -6,10 +6,12 @@
 : (code-names.seed:generate-same-first-letter)
 : => "Ponderous Pearl"
 : 
-: (generate-basic (pattern 'basic-color 'gemstone 'noun))
+: (code-names.seed:generate-basic
+:  (code-names.seed:pattern 'basic-color 'gemstone 'noun))
 : => "White Topaz Songbird"
 : 
-: (generate-basic (pattern '("smooth" "angry" "noble") 'noun))
+: (code-names.seed:generate-basic 
+:  (code-names.seed:pattern '("smooth" "angry" "noble") 'noun))
 : => "Noble Shoehorn"
 : 
 : (code-names.seed:generate-same-first-letter 
