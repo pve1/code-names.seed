@@ -109,7 +109,7 @@
                               (mapcar take-first-letter word-list))
         :finally (return (remove-duplicates intersection))))
 
-(defun Generate-same-first-letter (&optional (words (default-word-pattern)))
+(defun Generate-alliteration (&optional (words (default-word-pattern)))
   ;; WORDS is a list of word (string) lists.
   (assert (consp words))
   (format-code-name

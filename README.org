@@ -3,7 +3,7 @@
 : (curious-code-names:generate-basic)
 : => "Uncertain Excitement"
 : 
-: (curious-code-names:generate-same-first-letter)
+: (curious-code-names:generate-alliteration)
 : => "Ponderous Pearl"
 : 
 : (curious-code-names:generate-basic
@@ -14,10 +14,10 @@
 :  (curious-code-names:pattern '("smooth" "angry" "noble") 'noun))
 : => "Noble Shoehorn"
 : 
-: (curious-code-names:generate-same-first-letter 
-:  (curious-code-names:pattern 'adjective 'adjective 'noun))
-: => "Old Ominous Onion"
+: (curious-code-names:generate-alliteration 
+:  (curious-code-names:pattern 'adjective 'adjective 'noun)) 
+: => "Old Ominous Onion" 
 : 
-: (curious-code-names:generate-same-first-letter
+: (curious-code-names:generate-alliteration
 :  (curious-code-names:pattern 'adjective 'adjective '("Alice"))
 : => "Adorable Angelic Alice"
