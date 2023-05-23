@@ -1,6 +1,6 @@
-(package.seed:define-seed-package :code-names.seed :export-capitalized t)
+(package.seed:define-seed-package :curious-code-names :export-capitalized t)
 
-(in-package :code-names.seed)
+(in-package :curious-code-names)
 
 ;;; Wordlists
 
@@ -72,7 +72,7 @@
 
 (defvar *Code-name-formatter* 'default-format-code-name)
 
-(defun Format-code-name (code-name)
+(defun format-code-name (code-name)
   (funcall *code-name-formatter* code-name))
 
 ;; Capitalize all words, then concatenate into a single string.

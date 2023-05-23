@@ -1,23 +1,23 @@
-* Code name generator
+* Curious Code Names
 
-: (code-names.seed:generate-basic)
+: (curious-code-names:generate-basic)
 : => "Uncertain Excitement"
 : 
-: (code-names.seed:generate-same-first-letter)
+: (curious-code-names:generate-same-first-letter)
 : => "Ponderous Pearl"
 : 
-: (code-names.seed:generate-basic
-:  (code-names.seed:pattern 'basic-color 'gemstone 'noun))
+: (curious-code-names:generate-basic
+:  (curious-code-names:pattern 'basic-color 'gemstone 'noun))
 : => "White Topaz Songbird"
 : 
-: (code-names.seed:generate-basic 
-:  (code-names.seed:pattern '("smooth" "angry" "noble") 'noun))
+: (curious-code-names:generate-basic 
+:  (curious-code-names:pattern '("smooth" "angry" "noble") 'noun))
 : => "Noble Shoehorn"
 : 
-: (code-names.seed:generate-same-first-letter 
-:  (code-names.seed:pattern 'adjective 'adjective 'noun))
+: (curious-code-names:generate-same-first-letter 
+:  (curious-code-names:pattern 'adjective 'adjective 'noun))
 : => "Old Ominous Onion"
 : 
-: (code-names.seed:generate-same-first-letter
-:  (code-names.seed:pattern 'adjective 'adjective '("Alice"))
+: (curious-code-names:generate-same-first-letter
+:  (curious-code-names:pattern 'adjective 'adjective '("Alice"))
 : => "Adorable Angelic Alice"
