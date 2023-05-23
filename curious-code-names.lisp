@@ -51,8 +51,9 @@
                    (probe-file (merge-pathnames file-name directory)))))
 
 (defun Word-list (name &key (suffix "txt"))
+  "Given NAME, tries to find a corresponding word list file."
   (typecase name
-    ;; 'FOO -> /some/path/foo.txt
+    ;; FOO -> /some/path/foo.txt
     (symbol (search-word-list-vpath
              (merge-pathnames (string-downcase (symbol-name name))
                               (make-pathname :type suffix))))
