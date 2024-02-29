@@ -29,7 +29,7 @@
          (source-dir (when source-dir-fn
                        (funcall source-dir-fn
                                 (string-downcase
-                                 (package-name *package*))))))
+                                 (package-name :curious-code-names))))))
     (when source-dir
       (merge-pathnames "word-lists/" source-dir))))
 
