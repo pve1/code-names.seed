@@ -42,6 +42,7 @@
   (etypecase entry
     (string entry)
     (pathname entry)
+    (null entry)
     ((or symbol function) (funcall entry))))
 
 (defun search-word-list-vpath (file-name)
